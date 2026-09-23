@@ -1562,6 +1562,12 @@ A curated list of awesome Polymarket trading tools, bots, and analytics platform
 
 ---
 
+### [Homerun](https://github.com/braedonsaunders/homerun)
+
+> Homerun is an open-source prediction market trading platform for Polymarket and Kalshi. Write full Python strategies and data sources, backtest them, then paper or live trade — 25+ built-in strategies, copy trading, AI scoring, and a real-time dashboard.
+
+---
+
 ## Whale & Wallet Tracking
 <a name="whale-wallet-tracking"></a>
 
